@@ -1,1 +1,7 @@
-# SP500-Correlation-CAPMBeta-FinancialCrisisAnalysis
+## *Market Dynamics Analysis: Correlations and CAPM Betas of the S&P 500 During Financial Crises*
+
+This project presents a thorough analysis of S&P 500 stock correlations and CAPM betas across different market conditions, emphasizing periods of financial crises. By leveraging Python's powerful libraries such as Pandas and yfinance, the script begins with the extraction of S&P 500 companies' ticker symbols from Wikipedia, followed by downloading historical adjusted closing prices and calculating daily returns. The focus then shifts to identifying peaks and troughs in the index to mark significant bull and bear market phases, providing insights into periods of financial downturns and recoveries.
+
+The project advances to a meticulous comparative study of stock behavior during and outside of crisis intervals, analyzing correlation matrices and CAPM betas to observe the shifts in stock volatilities and interdependencies. This exploration also includes a graphical representation of the S&P 500's performance, correlating financial milestones with key historical events that influenced the stock market trajectory, such as the dot-com bubble, the 2008 financial crisis, and the COVID-19 pandemic.
+
+One of the highlights of this analysis is the application of statistical tests to contrast average correlations and betas during crisis and non-crisis periods, confirming the hypothesis that stocks exhibit higher correlations and volatilities in times of market distress. Through this project, we gain a comprehensive understanding of market dynamics and investor behavior in response to systemic risks, providing valuable insights for portfolio diversification and risk management strategies.
